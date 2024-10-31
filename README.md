@@ -17,7 +17,9 @@ The repository is presently organised as a flat list of scripts, but as the coll
 it will be structured into thematic categories for easier navigation.
 
 ## Script Showcase
-
+|  🔑   | Topic             | Name                                           | Description                                                                                                     |
+|:-----:|:------------------|:-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+|  🔄   | Reactive State | [Reactive Counter](reactive-counter/README.md) | A basic Vue.js counter demonstrating reactivity with ref by updating the displayed count when its value changes |
 
 ## Contribution Guidelines
 I welcome contributions from the Vue community! If you'd like to suggest an improvement, please feel free to submit a pull request.
